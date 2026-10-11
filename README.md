@@ -10,12 +10,11 @@ Detect spoken language from voice — classifies between **Darija**, **MSA**, **
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Flask](https://img.shields.io/badge/Flask-3.x-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-FFD21E)](https://huggingface.co/)
-
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-FFD21E)](https://huggingface.co/)  
+<img width="449" height="420" alt="image" src="https://github.com/user-attachments/assets/d0e8c727-e610-4412-80cc-13e18ecc0ce6" />
 </div>
 
----
-
+---  
 ## Overview
 
 **Language Identifier** is a full-stack web application that automatically detects which language a person is speaking from a short audio clip. It targets the four languages most commonly used in Moroccan daily life:
@@ -194,7 +193,7 @@ Main prediction endpoint.
     "english": 0.0003
   }
 }
-
+```
 
 ---
 
