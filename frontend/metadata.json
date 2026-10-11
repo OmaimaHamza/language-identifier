@@ -1,0 +1,6 @@
+{
+  "name": "Language Identifier",
+  "description": "Identify spoken languages (Darija, MSA, French, English) from microphone recordings and audio files.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
